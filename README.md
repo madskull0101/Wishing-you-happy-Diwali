@@ -1,5 +1,4 @@
 # Wishing-you-happy-Diwali
-```markdown
 # Happy Diwali - HTML & CSS Project
 
 This repository contains a simple, festive "Happy Diwali" webpage designed using only HTML and CSS. The page is a visual greeting to celebrate the festival of lights, Diwali. The design includes vibrant colors, text animations, and a decorative background that captures the spirit of the festival.
